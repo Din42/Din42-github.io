@@ -43,3 +43,11 @@ tr {
 #social {
     text-align: center;
 }
+
+.telegram {
+    text-align: right;
+}
+
+.vk {
+    text-align: left;
+}
